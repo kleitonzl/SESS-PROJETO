@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D9D9D9;
+}
+
+.linkNav{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 40px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.linkFooter{
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+}
